@@ -26,5 +26,9 @@ DATA: 05/10/2024
 	PROJETO: ProjTemperature
 
 
+5.	Calcular os números primos compreendidos entre um intervalo fornecido pelo usuário. 
+
+	PROJETO: ProjPrimeNumber
+
 
 
