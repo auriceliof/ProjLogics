@@ -11,6 +11,6 @@ DATA: 05/10/2024
 	PROJETO: ProjParImpa
 
 
-2.	Faça um algoritmo que calcule a soma dos números inteiros de 1 a 100.
+2.	Calcular a soma dos números inteiros de 1 a 100
 
 	PROJETO: ProjCalcNumberInt
