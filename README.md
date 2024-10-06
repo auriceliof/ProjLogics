@@ -41,3 +41,21 @@ DATA: 05/10/2024
 	PROJETO: ProjCalcGroup
 
 
+8.	Realizar a leitura de três valores numéricos, representando os lados de um triângulo. Deverá verificar se os lados fornecidos 	formam realmente um triângulo (cada lado é menor que a soma dos outros dois lados). Se esta condição for verdadeira, deverá ser 	indicado qual tipo de triângulo foi formado: isósceles (dois lados iguais e um diferente. Escaleno (todos os lados diferentes) ou 	equilátero (todos os lados são iguais). 
+
+	PROJETO: ProjTriangle
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
