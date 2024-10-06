@@ -36,4 +36,8 @@ DATA: 05/10/2024
 	PROJETO: ProjHeight
 
 
+7.	Tem-se um conjunto de dados contendo a altura e o sexo (masculino, feminino) de 50 pessoas. Calcular: a maior e a menor altura do 	grupo, a média de altura das mulheres, o número de homens, a porcentagem de homens e de mulheres. 
+
+	PROJETO: ProjCalcGroup
+
 
