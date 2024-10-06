@@ -11,5 +11,4 @@ public class ProjCalcNumberIntApplication {
 
         System.out.println("A soma dos números inteiros de 1 a 100 é: " + soma);
     }
-
 }

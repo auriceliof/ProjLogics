@@ -14,3 +14,11 @@ DATA: 05/10/2024
 2.	Calcular a soma dos números inteiros de 1 a 100
 
 	PROJETO: ProjCalcNumberInt
+
+
+3.	Construa um programa que exiba a tabuada de 1 até N. 
+	
+	PROJETO: ProjTabuada
+
+
+
