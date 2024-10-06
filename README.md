@@ -46,6 +46,11 @@ DATA: 05/10/2024
 	PROJETO: ProjTriangle
 
 
+9.	Fazer um algoritmo para calcular e escrever a seguinte soma: 37x38/1 + 36x37/2 + 35x36/3 + ... + 1x2/37
+
+	PROJETO: ProjSum
+
+
 
 
 
