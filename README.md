@@ -31,4 +31,9 @@ DATA: 05/10/2024
 	PROJETO: ProjPrimeNumber
 
 
+6.	Anacleto tem 1,50m e cresce 2 centímetros por ano, enquanto Felisberto tem 1,10 e cresce 3 centímetros por ano. Calcular quantos 	anos serão necessários para que Felisberto seja maior que Anacleto.
+
+	PROJETO: ProjHeight
+
+
 
